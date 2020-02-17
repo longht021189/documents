@@ -1,40 +1,5 @@
 # **Awesome Flutter**
 
-[<img src="https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png" align="center" width="850">](https://flutter.dev/)
-
-<p align="center">
-  <a href="https://stackoverflow.com/questions/tagged/flutter?sort=votes">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-16,410-orange.svg" />
-  </a>
-  <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-71173-brightgreen.svg" />
-  </a>
-  <img alt="Entries" src="https://img.shields.io/badge/Items-325-lightgrey.svg" />
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
-  </a>
-  <a href="https://saythanks.io/to/Solido" target="_blank">
-    <img alt="Thanks" src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" />
-  </a>
-</p>
-
-<a href="https://flutter.dev/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
-
-If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
-
-<div style="text-align: center"><table><tr>
-  <td style="text-align: center">
-  <a href="https://twitter.com/BlueAquilae/status/1049315328835182592">
-    <img src="https://i.imgur.com/1Xdsp92.gif" width="200"/></a>
-</td>
-<td style="text-align: center">
-<img src="https://github.com/flschweiger/reply/blob/master/gif/reply.gif" width="400"/>
-</td>
-  <td style="text-align: center">
-<img src="https://camo.githubusercontent.com/23d3c78b0a2b645567630468bd68d54c02c2076a/68747470733a2f2f63646e2e3264696d656e73696f6e732e636f6d2f315f53746172742e676966" width="200"/>
-</td>
-</tr></table></div>
-
 ## Contents
 
 - [Articles](#articles)
